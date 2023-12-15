@@ -1,1 +1,5 @@
-his repo is just an attempt to read in and factorize a file of numbers.
+# RSA-Factoring-Challenge
+
+./factors <file>
+
+./rsa <file>
